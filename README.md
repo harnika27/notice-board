@@ -5,7 +5,7 @@ The Express server stores notices in MongoDB, and the React (TypeScript) page
 shows them and lets users add new ones.
 
 Course: 24UCS512 - Capstone Project (Assignment 2)
-Student: Akilesh B (711724UCS105)
+Student: HARNIKA P (711724UCS134)
 
 ## Tech Stack
 
