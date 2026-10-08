@@ -1,0 +1,15 @@
+{
+  "name": "notice-board-server",
+  "version": "1.0.0",
+  "description": "Express + MongoDB server for the Department Notice Board",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1"
+  }
+}
